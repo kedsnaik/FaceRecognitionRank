@@ -32,5 +32,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "The website is used to signin the users and then rank the users based on the most number of face detections performed.",
+  "main": "script.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kedsnaik/FaceRecognitionRank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kedsnaik/FaceRecognitionRank/issues"
+  },
+  "homepage": "https://github.com/kedsnaik/FaceRecognitionRank#readme"
 }
